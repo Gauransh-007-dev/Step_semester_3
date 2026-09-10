@@ -9,5 +9,9 @@ Completed Session 2 String manipulation problems (split, substring, StringBuilde
 **Today's Work:**
 Completed Session 3 problems covering control flow (if/else, switch) and iteration (for/while loops, break, continue).
 
+**Today's Work:**
+Completed Session 4 problems covering advanced array manipulation (two pointers, Kadane's algorithm, prefix sums, and modified binary search).
+
+
 
 
