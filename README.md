@@ -13,6 +13,9 @@ Completed Session 3 problems covering control flow (if/else, switch) and iterati
 Completed Session 4 problems covering advanced array manipulation (two pointers, Kadane's algorithm, prefix sums, and modified binary search).
 **Today's Work:**
 Completed Session 5 practice problems covering in-place array modification, method overloading.
+**Today's Work:**
+Completed Session 5 assignment problems covering overloaded filter methods, 2D array analysis, single-pass min/max tracking, and direct array manipulation.
+
 
 
 
