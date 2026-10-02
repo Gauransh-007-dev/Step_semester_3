@@ -28,6 +28,7 @@ public class PaymentSystem {
         if(!sc.hasNextInt()) return;
         int n = sc.nextInt();
         double total = 0;
+        sc.close();
         
         for (int i = 0; i < n; i++) {
             String type = sc.next();
